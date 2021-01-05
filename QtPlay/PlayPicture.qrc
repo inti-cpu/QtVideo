@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>11.png</file>
+        <file>10.png</file>
+        <file>9.png</file>
+        <file>7.png</file>
+        <file>6.png</file>
+        <file>5.png</file>
+        <file>1.png</file>
+        <file>4.png</file>
+        <file>3.png</file>
+        <file>2.png</file>
+        <file>biao.png</file>
+        <file>23.png</file>
+        <file>27.png</file>
+        <file>28.png</file>
+        <file>background6.jpg</file>
+        <file>29.png</file>
+        <file>30.png</file>
+    </qresource>
+</RCC>
